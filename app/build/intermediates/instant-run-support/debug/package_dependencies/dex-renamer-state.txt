@@ -1,0 +1,13 @@
+#Mon May 22 17:18:26 CST 2017
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_9cd1175a7814378856ef1c6e02b4a08c66f601dc
+base.2=/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_bb28c3d14bd249004982867fc5680d50ca54b7aa
+base.1=/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bda93c67717861562d3f06e90bc2708325b457e0
+base.0=/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c626beabebbaa153b80f8060462a38cdd176a4a
+file.3=/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-20.0.0_9cd1175a7814378856ef1c6e02b4a08c66f601dc/classes.dex
+file.2=/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-20.0.0_bb28c3d14bd249004982867fc5680d50ca54b7aa/classes.dex
+file.1=/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bda93c67717861562d3f06e90bc2708325b457e0/classes.dex
+file.0=/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c626beabebbaa153b80f8060462a38cdd176a4a/classes.dex

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蓝牙自拍杆</string>
+    <string name="device_name_default">Device Name</string>
+    <string name="receive_byte">Recv Bytes：</string>
+    <string name="data_format_default">Ascii</string>
+    <string name="data_format_hex">Hex</string>
+    <string name="clean">clean</string>
+    <string name="send_byte">Send Bytes：</string>
+    <string name="send">send</string>
+    <string name="scan_ble_device">Scan BLE Device</string>
+    <string name="device_name">name</string>
+    <string name="device_address">address</string>
+    <string name="scanning">Scanning......</string>
+    <string name="zero">0</string>
+
+</resources>

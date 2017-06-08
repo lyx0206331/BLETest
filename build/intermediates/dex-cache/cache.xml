@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a806c72cf2ec771a502f620729d35e32880cd45a">
+        <dex dex="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d8f92e4bb7bf4ee1416325f747eed6fb1a8d88a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6602ec8e05f54c343d99f3aac0619f30a088e937/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranqing/.android/build-cache/0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/pre-dexed/debug/classes_9c626beabebbaa153b80f8060462a38cdd176a4a.jar" />
+    </item>
+
+</items>
