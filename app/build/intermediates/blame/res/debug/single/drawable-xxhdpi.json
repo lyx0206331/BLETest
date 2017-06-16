@@ -20,12 +20,12 @@
         "source": "/Users/ranqing/.android/build-cache/0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26/output/res/drawable-xxhdpi/abc_ic_search_api_holo_light.png"
     },
     {
-        "merged": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png",
-        "source": "/Users/ranqing/.android/build-cache/0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26/output/res/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png"
-    },
-    {
         "merged": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_search_right_selected_holo_dark.9.png",
         "source": "/Users/ranqing/.android/build-cache/0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26/output/res/drawable-xxhdpi/abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/Users/ranqing/.android/build-cache/0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26/output/res/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png"
     },
     {
         "merged": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_commit_search_api_holo_light.png",
