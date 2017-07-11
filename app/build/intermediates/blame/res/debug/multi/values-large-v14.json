@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v14/values-large-v14.xml",
+        "outputFile": "E:\\Volumes\\MacintoshHD\\StudioProjects\\蓝牙自拍杆\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v14\\values-large-v14.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "/Users/ranqing/.android/build-cache/0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26/output/res/values-large-v14/values.xml",
+                    "file": "E:\\Users\\ranqing\\.android\\build-cache\\0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26\\output\\res\\values-large-v14\\values.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,50 @@
                     "endOffset": 278
                 },
                 "from": {
-                    "file": "/Users/ranqing/.android/build-cache/0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26/output/res/values-large-v14/values.xml",
+                    "file": "E:\\Users\\ranqing\\.android\\build-cache\\0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26\\output\\res\\values-large-v14\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 120,
+                        "endOffset": 282
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Android\\StudioProjects\\BLETest\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v14\\values-large-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 107,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\qing\\.android\\build-cache\\fc4f1f69a105f72d24118867e398f7efd6f62580\\output\\res\\values-large-v14\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 108,
+                        "endOffset": 160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 119,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "C:\\Users\\qing\\.android\\build-cache\\fc4f1f69a105f72d24118867e398f7efd6f62580\\output\\res\\values-large-v14\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

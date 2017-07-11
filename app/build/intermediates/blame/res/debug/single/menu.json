@@ -1,6 +1,10 @@
 [
     {
-        "merged": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/src/main/res/menu/main.xml"
+        "merged": "E:\\Android\\StudioProjects\\BLETest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android\\StudioProjects\\BLETest\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\MacintoshHD\\StudioProjects\\蓝牙自拍杆\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Volumes\\MacintoshHD\\StudioProjects\\蓝牙自拍杆\\app\\src\\main\\res\\menu\\main.xml"
     }
 ]

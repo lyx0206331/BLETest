@@ -3,30 +3,57 @@
 
     <item
         is-multidex="true"
-        jar="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="E:\Android\StudioProjects\BLETest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="a806c72cf2ec771a502f620729d35e32880cd45a">
-        <dex dex="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d8f92e4bb7bf4ee1416325f747eed6fb1a8d88a/classes.dex" />
+        sha1="5f2e45b3a7c51a98875133b614b17e917df34d8f">
+        <dex dex="E:\Android\StudioProjects\BLETest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_53496c1f36fcdbc6d57e2587baa9c20dee36410b\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6602ec8e05f54c343d99f3aac0619f30a088e937/classes.dex" />
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\Android\StudioProjects\BLETest\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_5b16f73fbc8a40c20d77aefb75b595d0c21c6c23\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/ranqing/.android/build-cache/0e5fa0bc8ac4cc13ae7eeb9fd24060960d993f26/output/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\qing\.android\build-cache\0d21fd7110ea37ddd6f0b9e8e5958cf15b4375a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\Android\StudioProjects\BLETest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_877b51d3621ea85710b941ca8abafeae327b8a64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\StudioProjects\BLETest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Android\StudioProjects\BLETest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7801ab2949222ae83693f62fdef36a90c458d6b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qing\.android\build-cache\fc4f1f69a105f72d24118867e398f7efd6f62580\output\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
-        <dex dex="/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/pre-dexed/debug/classes_9c626beabebbaa153b80f8060462a38cdd176a4a.jar" />
+        <dex dex="E:\Android\StudioProjects\BLETest\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0851176e54fcd3c09394ea38d579a00ef016a1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\qing\.android\build-cache\0d21fd7110ea37ddd6f0b9e8e5958cf15b4375a3\output\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\Android\StudioProjects\BLETest\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_2ca300289656367250c359aebfc694516ec56a57\classes.dex" />
     </item>
 
 </items>

@@ -1,10 +1,18 @@
 [
     {
-        "merged": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edit_box_bg.xml",
-        "source": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/src/main/res/drawable-hdpi/edit_box_bg.xml"
+        "merged": "E:\\Volumes\\MacintoshHD\\StudioProjects\\蓝牙自拍杆\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\normal_btn_bg.xml",
+        "source": "E:\\Volumes\\MacintoshHD\\StudioProjects\\蓝牙自拍杆\\app\\src\\main\\res\\drawable-hdpi\\normal_btn_bg.xml"
     },
     {
-        "merged": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/normal_btn_bg.xml",
-        "source": "/Volumes/MacintoshHD/StudioProjects/蓝牙自拍杆/app/src/main/res/drawable-hdpi/normal_btn_bg.xml"
+        "merged": "E:\\Android\\StudioProjects\\BLETest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_box_bg.xml",
+        "source": "E:\\Android\\StudioProjects\\BLETest\\app\\src\\main\\res\\drawable-hdpi\\edit_box_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\StudioProjects\\BLETest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\normal_btn_bg.xml",
+        "source": "E:\\Android\\StudioProjects\\BLETest\\app\\src\\main\\res\\drawable-hdpi\\normal_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\Volumes\\MacintoshHD\\StudioProjects\\蓝牙自拍杆\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_box_bg.xml",
+        "source": "E:\\Volumes\\MacintoshHD\\StudioProjects\\蓝牙自拍杆\\app\\src\\main\\res\\drawable-hdpi\\edit_box_bg.xml"
     }
 ]
